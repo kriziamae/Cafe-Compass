@@ -4,12 +4,12 @@ A simple, but effective cafe finder. Cafe Compass uses Google Maps to show you n
 
 ## Technologies Used
 
-[ Front End ]
+*Front End*
 - HTML
 - CSS
 - JavaScript
 
-[ Other Tools ]
+*Other Tools*
 - Places (Google Maps API)
 - Git & GitHub
 - VS Code
@@ -19,7 +19,7 @@ A simple, but effective cafe finder. Cafe Compass uses Google Maps to show you n
 
 ## Installation (for local use)
 
-Clone the projevt and install dependencies.
+Clone the project and install dependencies.
 
 ```bash
 # Clone this repository
